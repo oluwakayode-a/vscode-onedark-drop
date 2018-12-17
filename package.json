@@ -1,0 +1,47 @@
+{
+    "name": "one-dark-drop",
+    "displayName": "One Dark Drop",
+    "description": "A modified version of the One Dark Rain Coat color scheme, with a custom Workbench theme.",
+    "version": "0.0.1",
+    "publisher": "DontRestOnPretty",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "galleryBanner": {
+      "color": "#161821",
+      "theme": "dark"
+    },
+    "keywords": [
+      "javascript",
+      "es6",
+      "sublime",
+      "one dark",
+      "atom"
+    ],
+    "license": "SEE LICENSE IN LICENSE.txt",
+		"homepage": "https://github.com/DontRestOnPretty/vscode-onedark-drop",
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/DontRestOnPretty/vscode-onedark-drop.git"
+		},
+		"bugs": "https://github.com/DontRestOnPretty/vscode-onedark-drop/issues",
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Drop",
+                "uiTheme": "vs-dark",
+                "path": "./themes/One Dark Drop-color-theme.json"
+            }
+        ]
+    },
+    "extensionDependencies": [
+      "joshpeng.sublime-babel-vscode"
+    ],
+    "dependencies": {
+      "global": "^4.3.2",
+      "vsce": "^1.42.0"
+    }
+}
