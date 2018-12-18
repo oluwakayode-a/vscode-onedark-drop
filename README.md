@@ -1,5 +1,7 @@
 # One Dark Drop Theme
 
+![One Dark Drop Icon](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/icon.png)
+
 ## This is the extension "one-dark-drop" by D.R.O.P. (Don't Rest On Pretty)
 
 A modified version of the [One Dark Rain Coat color scheme](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-onedark-raincoat-theme) and custom Workbench theme for Visual Studio Code.
@@ -28,4 +30,11 @@ Open up your `setttings.json` and hack way.
 ## Screenshots
 
 ---
+
+![Screenshot Service Worker](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_1.png)
+![Screenshot Create-React-App](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_2.png)
+![Screenshot CSS](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_3.png)
+![Screenshot HTML](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_4.png)
+![Screenshot Sytled-Components](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_5.png)
+![Screenshot React Hooks](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_6.png)
 
