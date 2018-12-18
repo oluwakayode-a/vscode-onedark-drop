@@ -10,9 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images/icon.png",
     "galleryBanner": {
-        "color": "#161821",
-        "theme": "dark"
+      "color": "#0f1016",
+      "theme": "dark"
     },
     "keywords": [
         "javascript",

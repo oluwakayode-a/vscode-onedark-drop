@@ -24,3 +24,8 @@ Open up your `setttings.json` and hack way.
   "peekViewEditor.matchHighlightBackground": "#314365"
 }
 ```
+
+## Screenshots
+
+---
+
