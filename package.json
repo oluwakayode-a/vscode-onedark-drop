@@ -2,7 +2,7 @@
     "name": "one-dark-drop",
     "displayName": "One Dark Drop",
     "description": "A modified version of the One Dark Rain Coat color scheme, with a custom Workbench theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "DontRestOnPretty",
     "engines": {
         "vscode": "^1.30.0"
