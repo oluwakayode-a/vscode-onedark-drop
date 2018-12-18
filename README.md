@@ -1,6 +1,8 @@
 # One Dark Drop Theme
 
-![One Dark Drop Logo](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/icon.png)
+<!-- markdownlint-disable MD033 -->
+<img src="https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/icon.png" alt="Logo" width="220" />
+<!-- markdownlint-enable MD033 -->
 
 ## This is the extension "one-dark-drop" by D.R.O.P. (Don't Rest On Pretty)
 

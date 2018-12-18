@@ -570,7 +570,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#BF485A"
+        "foreground": "#bf485aa9"
       }
     },
     {
@@ -588,7 +588,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#BF485A90",
+        "foreground": "#BF485A",
         "fontStyle": "italic"
       }
     },
