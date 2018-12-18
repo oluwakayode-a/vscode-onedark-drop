@@ -1,11 +1,13 @@
 # One Dark Drop Theme
 
-![One Dark Drop Icon](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/icon.png)
+![One Dark Drop Logo](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/icon.png)
 
 ## This is the extension "one-dark-drop" by D.R.O.P. (Don't Rest On Pretty)
 
 A modified version of the [One Dark Rain Coat color scheme](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-onedark-raincoat-theme) and custom Workbench theme for Visual Studio Code.
 This color scheme/theme supports ES6/Babel and is optimized for, and depends on, [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension. Install Sublime Babel via `ext install sublime-babel-vscode` in Command Palette \(Ctrl-Shft-P\).
+
+![One Dark Drop](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_7.png)
 
 ## Additional Customization and other Tweaks
 
