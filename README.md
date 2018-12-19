@@ -4,7 +4,7 @@
 <img src="https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/icon.png" alt="Logo" width="220" />
 <!-- markdownlint-enable MD033 -->
 
-## This is the extension "one-dark-drop" by D.R.O.P. (Don't Rest On Pretty)
+## This is the theme "One Dark Drop" by D.R.O.P. (Don't Rest On Pretty)
 
 A modified version of the [One Dark Rain Coat color scheme](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-onedark-raincoat-theme) and custom Workbench theme for Visual Studio Code.
 This color scheme/theme supports ES6/Babel and is optimized for, and depends on, [Sublime Babel](https://marketplace.visualstudio.com/items?itemName=joshpeng.sublime-babel-vscode) Extension. Install Sublime Babel via `ext install sublime-babel-vscode` in Command Palette \(Ctrl-Shft-P\).
@@ -22,13 +22,11 @@ No problem, feel free to edit and customize by using the `workbench.colorCustomi
 Open up your `setttings.json` and hack way.
 
 ```json
-"workbench.colorCustomizations":{
-  "peekView.border": "#E50A69AB",
-  "peekViewTitle.background": "#101119",
-  "peekViewResult.background": "#101119",
-  "peekViewEditor.background": "#202232",
-  "peekViewEditor.matchHighlightBackground": "#314365"
-}
+"workbench.colorCustomizations": {
+  "statusBar.background": "#3f10c0",
+  "statusBar.noFolderBackground": "#5f00af",
+  "statusBar.debuggingBackground": "#b41925"
+  }
 ```
 
 ## Screenshots
@@ -41,4 +39,3 @@ Open up your `setttings.json` and hack way.
 ![Screenshot HTML](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_4.png)
 ![Screenshot Sytled-Components](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_5.png)
 ![Screenshot React Hooks](https://github.com/DontRestOnPretty/vscode-onedark-drop/raw/master/images/Screenshot_2018-12-17_6.png)
-

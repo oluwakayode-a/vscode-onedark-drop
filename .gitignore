@@ -3,3 +3,4 @@ test/**
 node_modules/**
 vsc-extension-quickstart.md
 .vscodeignore
+*.vsix

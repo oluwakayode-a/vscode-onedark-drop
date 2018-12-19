@@ -2,7 +2,7 @@
     "name": "one-dark-drop",
     "displayName": "One Dark Drop",
     "description": "A modified version of the One Dark Rain Coat color scheme, with a custom Workbench theme.",
-    "version": "0.0.2",
+    "version": "1.0.0",
     "publisher": "DontRestOnPretty",
     "engines": {
         "vscode": "^1.30.0"
@@ -22,7 +22,7 @@
         "one dark",
         "atom"
     ],
-    "license": "See LICENSE file",
+    "license": "MIT",
     "homepage": "https://github.com/DontRestOnPretty/vscode-onedark-drop",
     "repository": {
         "type": "git",
