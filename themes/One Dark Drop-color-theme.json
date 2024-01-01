@@ -585,7 +585,7 @@
 		},
 		{
 			"name": "Tag attribute",
-			"scope": "entity.other.attribute-name.html, entity.other.attribute-name.js, entity.other.attribute-name.jsx",
+			"scope": "entity.other.attribute-name.html, entity.other.attribute-name.js, entity.other.attribute-name.jsx, entity.other.attribute-name.ts, entity.other.attribute-name.tsx",
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#D7873D"
@@ -1093,7 +1093,9 @@
 			"name": "JSX Embedded Braces & Spread",
 			"scope": [
 				"punctuation.section.embedded.begin.jsx",
-				"punctuation.section.embedded.end.jsx"
+				"punctuation.section.embedded.end.jsx",
+				"punctuation.section.embedded.begin.tsx",
+				"punctuation.section.embedded.end.tsx",
 			],
 			"settings": {
 				"foreground": "#D7873D",
@@ -1103,7 +1105,8 @@
 		{
 			"name": "JSX Spread",
 			"scope": [
-				"keyword.operator.spread.js"
+				"keyword.operator.spread.js",
+				"keyword.operator.spread.ts",
 			],
 			"settings": {
 				"foreground": "#efe5abce",
